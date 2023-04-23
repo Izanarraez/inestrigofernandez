@@ -19,13 +19,13 @@
 
     <section class="container-fluid">
 
-        <div class="row">
-            <div class="col-12 d-flex justify-content-center">
-                <img src="Img/tranquilidad.jpg" class="img-fluid w-75 h-25">
+        <div class="row justify-content-center">
+            <div class="col-12 w-50 d-flex justify-content-center flex-wrap">
+                <img class="img-fluid w-75 h-75" src="Img/tranquilidad.jpg">
             </div>
-            <div class="col-12">
-                <h3 class="text-center">Cosas varias</h3>
-                <p class="text-center">Todavía tengo casi todos mis dientes
+            <div class="col-12 w-75 mb-3 d-flex justify-content-center flex-wrap">
+                <h3 class="text-center w-100">Cosas varias</h3>
+                <p class="text-center w-100">Todavía tengo casi todos mis dientes
                     casi todos mis cabellos y poquísimas canas
                     puedo hacer y deshacer el amor
                     trepar una escalera de dos en dos
@@ -34,6 +34,35 @@
                     pero el grave problema es que antes
                     no me fijaba en estos detalles.
                 </p>
+            </div>
+            <div class="col-12 w-75 border-top border-warning d-flex justify-content-center flex-wrap">
+                    <div class="row mt-4">
+                        
+                        <div class="col-12">
+                            <h3 class="text-center">Galeria</h3>
+                        </div>
+
+                        <div class="col-6 col-md-4 text-center">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-0">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+    
+                    </div>
             </div>
         </div>
         
