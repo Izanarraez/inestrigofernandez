@@ -35,6 +35,36 @@
                     no me fijaba en estos detalles.
                 </p>
             </div>
+            <div class="col-12 w-75 mb-4 border-top border-warning d-flex justify-content-center flex-wrap">
+                    <div class="row mt-4">
+                        
+                        <div class="col-12">
+                            <h3 class="text-center">Terapias</h3>
+                        </div>
+
+                        <div class="col-6 col-md-4 text-center">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-0">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+                        <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
+                            <img class="img-fluid" src="Img/logo2.PNG">
+                        </div>
+    
+                    </div>
+            </div>
+
             <div class="col-12 w-75 border-top border-warning d-flex justify-content-center flex-wrap">
                     <div class="row mt-4">
                         
