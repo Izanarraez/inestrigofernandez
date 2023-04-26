@@ -10,18 +10,18 @@
     <link rel="stylesheet" href="css/icon_was.css">
     <link rel="stylesheet" href="css/footer.css">
 
-    <?php require_once("Plantillas/Bootstrap.html")?>
+    <?php require_once("plantillas/Bootstrap.html")?>
 
 </head>
 <body>
 
-    <?php require_once("Plantillas/Navbar.html")?>
+    <?php require_once("plantillas/Navbar.html")?>
 
     <section class="container-fluid">
 
         <div class="row justify-content-center">
             <div class="col-12 w-50 d-flex justify-content-center flex-wrap">
-                <img class="img-fluid w-75 h-75" src="Img/tranquilidad.jpg">
+                <img class="img-fluid w-75 h-75" src="img/tranquilidad.jpg">
             </div>
             <div class="col-12 w-75 mb-3 d-flex justify-content-center flex-wrap">
                 <h3 class="text-center w-100">Cosas varias</h3>
@@ -43,23 +43,23 @@
                         </div>
 
                         <div class="col-6 col-md-4 text-center">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-0">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
 
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
     
                     </div>
@@ -73,23 +73,23 @@
                         </div>
 
                         <div class="col-6 col-md-4 text-center">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-0">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
 
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
                         <div class="col-6 col-md-4 text-center mt-3 mt-md-3">
-                            <img class="img-fluid" src="Img/logo2.PNG">
+                            <img class="img-fluid" src="img/logo2.PNG">
                         </div>
     
                     </div>
@@ -97,8 +97,8 @@
         </div>
         
     </section>
-    <?php require_once('Plantillas/whatsapp.html')?>
-    <?php require_once("Plantillas/Footer.php")?>
+    <?php require_once('plantillas/whatsapp.html')?>
+    <?php require_once("plantillas/Footer.php")?>
 
 </body>
 </html>

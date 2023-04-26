@@ -20,7 +20,7 @@
             <div class="row align-items-center">
                 <div class="col-12 d-flex justify-content-center">
                     <a href="#" target="_blank"><?php require_once('svg/instagram.svg')?></a>
-                    <a href="#" target="_blank"><?php require_once('svg/painterest.svg')?></a>
+                    <a href="#" target="_blank"><?php require_once('svg/facebook.svg')?></a>
                     <a href="https://www.linkedin.com/in/in%C3%A9s-trigo-fern%C3%A1ndez-21b17b8a/?originalSubdomain=es" target="_blank"><?php require_once('svg/linkedin.svg')?></a>
                     <a href="#" target="_blank"><?php require_once('svg/twitter.svg')?></a>
                     <a href="#" target="_blank"><?php require_once('svg/whatsapp.svg')?></a>

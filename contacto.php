@@ -9,19 +9,19 @@
     <link rel="stylesheet" href="css/icon_was.css">
     <link rel="stylesheet" href="css/footer.css">
 
-    <?php require_once("Plantillas/Bootstrap.html")?>
+    <?php require_once("plantillas/Bootstrap.html")?>
 
 </head>
 <body>
-    <div id="navbar">
-        <?php require_once("Plantillas/Navbar.html")?>
-    </div>
+    
+    <?php require_once("plantillas/Navbar.html")?>
+    
 
     <section class="container-fluid">
 
         <div class="row">
             <div class="col-12 my-3 d-flex justify-content-center">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.1321385310744!2d-3.8767907235157493!3d40.45021225360008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4184e2b3353901%3A0x73eae46d77ea86f5!2sHospital%20Universitario%20Puerta%20De%20Hierro!5e0!3m2!1ses!2ses!4v1681808206561!5m2!1ses!2ses" width="2000" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.1321385310744!2d-3.8767907235157493!3d40.45021225360008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4184e2b3353901%3A0x73eae46d77ea86f5!2sHospital%20Universitario%20Puerta%20De%20Hierro!5e0!3m2!1ses!2ses!4v1681808206561!5m2!1ses!2ses" width="2000" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="d-block w-100"></iframe>
             </div>
             <!--<div class="col-6 col-md-8 d-flex ">
                 <div class="row w-100 justify-content-between align-items-center">
@@ -67,10 +67,10 @@
                 </ul>
             </div>
         </div>
-        <?php require_once('Plantillas/whatsapp.html')?>
+        <?php require_once('plantillas/Whatsapp.html')?>
     </section>
     
-    <?php require_once("Plantillas/Footer.php")?>
+    <?php require_once("plantillas/Footer.php")?>
     
 </body>
 </html>
