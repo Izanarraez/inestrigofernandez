@@ -8,17 +8,46 @@
 
     <link rel="stylesheet" href="css/inicio.css">
     <link rel="stylesheet" href="css/icon_was.css">
-    <link rel="stylesheet" href="css/footer.css">
+    <!--<link rel="stylesheet" href="css/footer.css">-->
 
     <?php require_once("plantillas/Bootstrap.html")?>
 
 </head>
 <body>
 
-    <?php require_once("plantillas/Navbar.html")?>
+    
 
-    <section class="container-fluid">
+    <section id="carouselExampleAutoplaying" class="carousel slide d-slider" data-bs-ride="carousel">
+        <div class="carousel-inner d-inner">
+            <div class="carousel-item active d-item">
+                <img src="img/despacho1.jpg" class="d-block w-100 d-img" alt="...">
+            </div>
+            <div class="carousel-item d-item">
+                <img src="img/despacho2.jpg" class="d-block w-100 d-img" alt="...">
+            </div>
+            <div class="carousel-item d-item">
+                <img src="img/despacho3.jpg" class="d-block w-100 d-img" alt="...">
+            </div>
+        </div>
 
+        <!--<button class="carousel-control-prev d-previus" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+
+        <button class="carousel-control-next d-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>-->
+
+    </section>       
+         
+     <?php require_once("plantillas/Navbar.html")?>
+
+     <?php require_once('plantillas/Footer_inicio.php')?>    
+     
+
+    <!--<section class="container-fluid">  
         <div class="row justify-content-center">
             <div class="col-12 w-50 d-flex justify-content-center flex-wrap">
                 <img class="img-fluid w-75 h-75" src="img/tranquilidad.jpg">
@@ -96,9 +125,10 @@
             </div>
         </div>
         
-    </section>
-    <?php require_once('plantillas/whatsapp.html')?>
-    <?php require_once("plantillas/Footer.php")?>
+    </section>-->
 
+    <!--<-?php require_once('plantillas/whatsapp.html')?>-->
+    <!--<-?php require_once('plantillas/Footer_inicio.php')?>-->
+    <script src="js/carousel.js"></script>
 </body>
 </html>

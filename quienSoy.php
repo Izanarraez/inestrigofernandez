@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quien Soy</title>
 
-    <link rel="stylesheet" href="css/inicio.css">
     <link rel="stylesheet" href="css/icon_was.css">
-    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/footer2.css">
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -20,7 +19,7 @@
     <section class="container-fluid">
 
         <div class="row">
-            <div class="col-12 order-0 my-3">
+            <div class="col-12 order-0 my-3 bg-dark text-light">
                 <h3>Quien soy</h3>
             </div>
             <div class="col-12">
@@ -59,7 +58,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6 order-md-2">
-                        <img src="img/tranquilidad.jpg" class="img-fluid">
+                        <img src="img/tranquilidad.jpg" class="img-fluid mb-4">
                     </div>
                 </div>
             </div>
