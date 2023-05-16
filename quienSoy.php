@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quien Soy</title>
 
-    <link rel="stylesheet" href="css/icon_was.css">
+    <link rel="stylesheet" href="css/icon_was2.css">
     <link rel="stylesheet" href="css/footer2.css">
+    <link rel="stylesheet" href="css/mode3.css">
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -16,49 +17,40 @@
     <?php require_once("plantillas/Navbar.html")?>
     
 
-    <section class="container-fluid">
+    <section class="container-fluid d-quienSoy">
 
         <div class="row">
-            <div class="col-12 order-0 my-3 bg-dark text-light">
-                <h3>Quien soy</h3>
+            <div class="col-12 order-0 bg-dark text-light">
+                <h1>Quien soy</h1>
             </div>
             <div class="col-12">
-                <div class="row">
-                    <div class="col-12 col-md-6 order-2 order-md-1">
-                        <h5>INES TRIGO FERNANDEZ</h5>
-                        <p>Era un pueblecito rayano, Ribamoura, vivero de contrabandistas, donde esta profesión de riesgo y lucro hacía a la gente 
-                           menos dormida de lo que suelen ser los pueblerinos. Abundaban los mozos de cabeza caliente, y se desdeñaba al que no era 
-                           capaz de coger una escopeta y salir a la ganancia. Las mujeres, vestidas y adornadas con lo que da de sí el contrabando, 
-                           lucían pendientes de ostentosa filigrana, patenas fastuosas, pañuelos de seda de colorines; en las casas no faltaba ron 
-                           jamaiqueño ni queso de Flandes, y los hombres poseían armas inglesas, bolsas de piel y tabaco Virginia y Macuba. Al través 
-                           de Portugal, Inglaterra enviaba sus productos, y de España pasaban otros, cruzando el caudaloso río. Algunos días del año 
-                           se interrumpía el tráfico y la industria de Ribamoura. El pueblo entero se congregaba a celebrar las solemnidades 
-                           consuetudinarias, que servían de pretexto para solaces y holgorio. Tal ocurría con el Carnaval, tal con la fiesta de la Patrona, 
-                           tal con los días de la Semana Santa. A pesar de ser éstos de penitencia y mortificación, para los de Ribamoura tenían carácter 
-                           de fiesta; en ellos se celebraba, en la iglesia principal, espacioso edificio de la época herreriana, la representación de la 
-                           Pasión, con personajes de carne y hueso, y encargándose de los papeles gente del pueblo mismo. Venido de Oporto, un actor 
-                           portugués, con el instinto dramático de la raza, organizaba y dirigía la representación; pero sin tomar parte en ella. 
-                           Esto se hubiese considerado en Ribamoura irreverente. «Trabajaban» por devoción y por respeto tradicional a los misterios 
-                           redentores; pero nunca hubiesen admitido a nadie mercenario, ni tolerado que hiciese los papeles nadie de mala reputación. 
-                           Gente honrada, aunque contrabandease; que eso no deshonra. Ni por pecado lo daban en el confesionario los frailes.
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-6 order-2 order-md-1 mt-5 mb-5">
+                        <h2>INES TRIGO FERNANDEZ</h2>
+                        <p>Hola! Mi nombre es Inés Trigo Fernández y soy psicóloga general sanitaria, especializada en psicoterapia psicoanalítica relacional. Con más de 10 años de experiencia en el campo de la psicología clínica, he tenido el privilegio de acompañar a muchas personas en su camino hacia la sanación y el bienestar emocional. 
+                           Mi formación y experiencia abarcan diversas áreas de la psicología, lo que me permite tener una visión integral y enriquecedora de cada caso. Además de mi especialización en psicoterapia relacional, también he recibido formación en terapia sistémica y duelos, lo que me brinda una perspectiva amplia y contextual de los problemas emocionales y relacionales. 
+                           Durante mi trayectoria profesional, he trabajado con diversos trastornos como la depresión, asiedad, fobias, trastornos alimenticios y trastornos de la personalidad. Cada caso es único, y me apasiona adaptar mis conocimientos y técnicas terapéuticas a las necesidades individuales de mis pacientes. 
+                           Mi enfoque terapéutico se basa en el establecimiento de una relación de confianza y empatía con mis pacientes. Creo firmemente en la importancia de crear un espacio seguro y libre de juicios, donde puedas explorar tus emociones y pensamientos más profundos. 
+                           Mi objetivo principal es ayudarte a comprender las dinámicas subyacentes en tus patrones relacionales y emocionales, para que puedas desarrollar nuevas formas de afrontamiento y alcanzar un mayor bienestar en tu vida. Estoy comprometida con tu proceso de crecimiento personal y estaré a tu lado en cada paso del camino. 
+                           Si crees que puedo ayudarte a mejorar tu bienestar, te invito a ponerte en contacto conmigo y comenzar esta travesía hacia la mejoría y el autoconocimiento. Juntos, podemos construir un camino hacia la salud emocional y la felicidad. 
                         </p>
                         <div class="row w-100 align-items-center justify-content-center">
                             <div class="col-2">
-                                <img class="img-fluid w-75" src="img/sanitario.jpg">
+                                <img class="img-fluid w-75" src="img/sanitario.jpg" alt="sanitario">
                             </div>
                             <div class="col-2">
-                                <img class="img-fluid w-75" src="img/estrella.jpg">
+                                <img class="img-fluid w-75" src="img/estrella.jpg" alt="estrella">
                             </div>
                             <div class="col-2">
-                                <img class="img-fluid w-75" src="img/uned.jpg">
+                                <img class="img-fluid w-75" src="img/uned.jpg" alt="uned">
                             </div>
                             <div class="col-2">
-                                <img class="img-fluid w-75" src="img/wis.jpg">
+                                <img class="img-fluid w-75" src="img/wis.jpg" alt="wis">
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 order-md-2">
-                        <img src="img/tranquilidad.jpg" class="img-fluid mb-4">
+                    <div class="col-12 col-md-6 order-md-2 mt-5">
+                        <img src="img/tranquilidad.jpg" class="img-fluid mb-4" alt="Fotografía de la Psicologa">
                     </div>
                 </div>
             </div>

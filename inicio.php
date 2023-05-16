@@ -7,7 +7,7 @@
     <title>Inicio</title>
 
     <link rel="stylesheet" href="css/inicio.css">
-    <link rel="stylesheet" href="css/icon_was.css">
+    <link rel="stylesheet" href="css/icon_was2.css">
     <!--<link rel="stylesheet" href="css/footer.css">-->
 
     <?php require_once("plantillas/Bootstrap.html")?>
@@ -20,13 +20,13 @@
     <section id="carouselExampleAutoplaying" class="carousel slide d-slider" data-bs-ride="carousel">
         <div class="carousel-inner d-inner">
             <div class="carousel-item active d-item">
-                <img src="img/despacho1.jpg" class="d-block w-100 d-img" alt="...">
+                <img src="img/bienbenido.jpeg" class="d-block w-100 d-img" alt="Imagen de bienbenida">
             </div>
             <div class="carousel-item d-item">
-                <img src="img/despacho2.jpg" class="d-block w-100 d-img" alt="...">
+                <img src="img/chico.jpeg" class="d-block w-100 d-img" alt="Imagen de chico en pasisaje tranquilo">
             </div>
             <div class="carousel-item d-item">
-                <img src="img/despacho3.jpg" class="d-block w-100 d-img" alt="...">
+                <img src="img/chica.jpeg" class="d-block w-100 d-img" alt="Imagen de chica en pasisaje tranquilo">
             </div>
         </div>
 
@@ -43,6 +43,8 @@
     </section>       
          
      <?php require_once("plantillas/Navbar.html")?>
+
+     <?php require_once('plantillas/whatsapp.html')?>
 
      <?php require_once('plantillas/Footer_inicio.php')?>    
      

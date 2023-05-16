@@ -1,4 +1,4 @@
-<footer class="container-fluid bg-dark text-light mt-4">
+<footer class="container-fluid bg-dark text-light">
     <div class="row align-items-center mt-2">
         <div class="col-12 col-md-4 my-3"> <!--my-2-->
             <div class="row">
@@ -16,11 +16,11 @@
         <div class="col-12 col-md-4 my-3"> <!--my-2-->
             <div class="row align-items-center">
                 <div class="col-12 d-flex justify-content-center">
-                    <a href="#" target="_blank"><?php require_once('svg/instagram.svg')?></a>
-                    <a href="#" target="_blank"><?php require_once('svg/facebook.svg')?></a>
-                    <a href="https://www.linkedin.com/in/in%C3%A9s-trigo-fern%C3%A1ndez-21b17b8a/?originalSubdomain=es" target="_blank"><?php require_once('svg/linkedin.svg')?></a>
-                    <a href="#" target="_blank"><?php require_once('svg/twitter.svg')?></a>
-                    <a href="#" target="_blank"><?php require_once('svg/whatsapp.svg')?></a>
+                    <a href="#" target="_blank" aria-label="Instagram"><?php require_once('svg/instagram.svg')?></a>
+                    <a href="#" target="_blank" aria-label="Facebook"><?php require_once('svg/facebook.svg')?></a>
+                    <a href="https://www.linkedin.com/in/in%C3%A9s-trigo-fern%C3%A1ndez-21b17b8a/?originalSubdomain=es" target="_blank" aria-label="Linked in"><?php require_once('svg/linkedin.svg')?></a>
+                    <a href="#" target="_blank" aria-label="Twitter"><?php require_once('svg/twitter.svg')?></a>
+                    <a href="#" target="_blank" aria-label="Whatsapp"><?php require_once('svg/whatsapp.svg')?></a>
                 </div>
             </div> 
         </div>

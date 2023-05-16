@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contacto</title>
 
-    <link rel="stylesheet" href="css/icon_was.css">
+    <link rel="stylesheet" href="css/icon_was2.css">
     <link rel="stylesheet" href="css/footer2.css">
 
     <?php require_once("plantillas/Bootstrap.html")?>
@@ -21,7 +21,7 @@
 
         <div class="row">
             <div class="col-12 my-3 d-flex justify-content-center">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d536.3369984300368!2d-3.6863336682663492!3d40.49782024745823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422bdee900fc2d%3A0xb9b3eca08212decd!2sTr.%C2%AA%20Vistas%20a%20la%20Moraleja%2C%2016%2C%2028034%20Madrid!5e0!3m2!1ses!2ses!4v1683108154954!5m2!1ses!2ses" width="2000" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="d-block w-100"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d536.3369984300368!2d-3.6863336682663492!3d40.49782024745823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422bdee900fc2d%3A0xb9b3eca08212decd!2sTr.%C2%AA%20Vistas%20a%20la%20Moraleja%2C%2016%2C%2028034%20Madrid!5e0!3m2!1ses!2ses!4v1683108154954!5m2!1ses!2ses" width="2000" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="d-block w-100" title="Ubicación en Google Maps"></iframe>
             </div>
             <!--<div class="col-6 col-md-8 d-flex ">
                 <div class="row w-100 justify-content-between align-items-center">
