@@ -52,7 +52,7 @@
                         <h3 class="text-center w-100">Como llegar</h3>
                         <div class="row w-100">
                             <div class="col-12 text-center">
-                                <a href="https://www.google.es/maps/place/Tr.%C2%AA+Vistas+a+la+Moraleja,+16,+28034+Madrid/@40.4977181,-3.6865419,19z/data=!4m5!3m4!1s0xd422bdee900fc2d:0xb9b3eca08212decd!8m2!3d40.4980877!4d-3.6862037?hl=es" class="btn btn-warning w-50" style="text-decoration: none; color:black">Pulsa Aquí</a>
+                                <a href="https://www.google.es/maps/place/Tr.%C2%AA+Vistas+a+la+Moraleja,+16,+28034+Madrid/@40.4977181,-3.6865419,19z/data=!4m5!3m4!1s0xd422bdee900fc2d:0xb9b3eca08212decd!8m2!3d40.4980877!4d-3.6862037?hl=es" class="btn btn-warning w-50" style="text-decoration: none; color:black" target="_blank">Pulsa Aquí</a>
                             </div>
                         </div>
                         <p class=" text-center w-100 mt-1"><?php require_once('svg/ubicacion.svg')?>  Travesía vistas a la moraleja, 16. 28034 MADRID</p>
