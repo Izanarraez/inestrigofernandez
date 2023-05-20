@@ -1,0 +1,34 @@
+.d-quienSoy{
+    background-image: url(../img/despacho3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-navbar{
+    background-color: #fff8e7;
+    opacity: 0.8;
+}
+
+.bg-carta{
+    background-image: url(../img/carta.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-chico{
+    background-image: url(../img/chico.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-ordenador{
+    background-image: url(../img/ordenador.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-reloj{
+    background-image: url(../img/reloj.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

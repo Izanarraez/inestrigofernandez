@@ -6,9 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quien Soy</title>
 
-    <link rel="stylesheet" href="css/icon_was.css">
-    <link rel="stylesheet" href="css/footer2.css">
-    <link rel="stylesheet" href="css/inicio2.css">
+    <?php require_once("plantillas/links.html")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -17,11 +15,11 @@
     <?php require_once("plantillas/Navbar.html")?>
     
 
-    <section class="container-fluid">
+    <section class="container-fluid  bg-ordenador">
 
         <div class="row">
-            <div class="col-12">
-                <h3>Terapias Online</h3>
+            <div class="col-12 bg-dark text-light">
+                <h3 class="text-center">Terapias Online</h3>
             </div>
             <div class="col-12">
                 <p>
@@ -33,11 +31,11 @@
             </div>
         </div>
 
-        <?php require_once('plantillas/whatsapp.html')?>
-
     </section>
     
     <?php require_once("plantillas/Footer.php")?>
+
+    <?php require_once('plantillas/whatsapp.html')?>
 
 </body>
 </html>

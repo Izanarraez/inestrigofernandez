@@ -1,0 +1,53 @@
+.bg-quienSoy{
+    background-image: url(../img/despacho3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-navbar{
+    background: #fff8e7;
+    opacity: 0.8;
+}
+
+.bg-carta{
+    background-image: url(../img/carta.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-chico{
+    background-image: url(../img/chico.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-ordenador{
+    background-image: url(../img/ordenador.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-reloj{
+    background-image: url(../img/reloj.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-pedirCita{
+    background-image: url(../img/pluma.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-rose{
+    background-color: #fdcafd;
+    opacity: 0.5;
+}
+
+
