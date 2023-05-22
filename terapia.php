@@ -131,20 +131,20 @@
             <div class="col-12 bg-success-subtle">
                 <h5>Cómo puedo ayudaros?</h5>
             </div>
-            <div class="col-12 bg-carta text-light">
+            <div class="col-12 bg-ayuda">
                 <div class="row">
                     <div class="col-12 col-md-8">
-                        <p>
+                        <p class="bg-ayudaP">
                             A través de la psicoterapia ayuda a mis pacientes a explorar y mejorar las dinámicas relacionales, encontrar soluciones constructivas y promover la comunicación efectiva. Esta psicoterapia permite desarrollar una mayor conciencia de uno mismo, mejorar las relaciones interpersonales y promover cambios positivos. 
                             Trabajo con mis pacientes para abordar las causas subyacentes de estos trastornos y promover una relación saludable con uno mismo, fomentando la autoaceptación y el autocuidado.
                         </P>
-                        <p>
+                        <p class="bg-ayudaP">
                             Si te encuentras lidiando con alguno de estos problemas o cualquier otro desafío emocional, estaré aquí para ofrecerte un espacio seguro y de apoyo, donde juntos podamos trabajar hacia tu bienestar emocional y una vida más satisfactoria.
                         </p>
                         <div class="row align-items-center my-3">
                             <div class="col-12 d-flex justify-content-center">
-                                <a href="contacto.php" class="btn btn-warning h-5 mx-2">Contactanos</a>
-                                <a href="contacto.php" class="btn btn-warning h-5 mx-2">Pide Cita</a>
+                                <a href="contacto.php" class="btn btn-warning h-5 mx-2 bg-ayudaB">Contactanos</a>
+                                <a href="contacto.php" class="btn btn-warning h-5 mx-2 bg-ayudaB">Pide Cita</a>
                             </div>
                         </div>
                     </div>

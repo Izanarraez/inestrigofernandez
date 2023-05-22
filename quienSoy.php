@@ -18,12 +18,12 @@
     <section class="container-fluid bg-quienSoy">
 
         <div class="row">
-            <div class="col-12 order-0 bg-dark text-light">
+            <div class="col-12 order-0 bg-dark text-light bg-quienSoyTi">
                 <h1>Quien soy</h1>
             </div>
             <div class="col-12">
                 <div class="row align-items-center">
-                    <div class="col-12 col-md-6 order-2 order-md-1 mt-5 mb-5">
+                    <div class="col-12 col-md-6 order-2 order-md-1 mt-5 mb-5 bg-quienSoyT">
                         <h3>INES TRIGO FERNANDEZ</h3>
                         <p>Hola! Mi nombre es Inés Trigo Fernández y soy psicóloga general sanitaria, especializada en psicoterapia psicoanalítica relacional. Con más de 10 años de experiencia en el campo de la psicología clínica, he tenido el privilegio de acompañar a muchas personas en su camino hacia la sanación y el bienestar emocional. 
                            Mi formación y experiencia abarcan diversas áreas de la psicología, lo que me permite tener una visión integral y enriquecedora de cada caso. Además de mi especialización en psicoterapia relacional, también he recibido formación en terapia sistémica y duelos, lo que me brinda una perspectiva amplia y contextual de los problemas emocionales y relacionales. 
@@ -34,7 +34,7 @@
                         </p>
                     </div>
                     <div class="col-12 col-md-6 order-md-2 mt-5 d-flex justify-content-center">
-                        <img src="img/foto.jpg" class="img-fluid w-75 mb-4" alt="Fotografía de la Psicologa">
+                        <img src="img/foto.jpg" class="img-fluid w-75 mb-4 bg-quienSoyI" alt="Fotografía de la Psicologa">
                     </div>
                 </div>
             </div>

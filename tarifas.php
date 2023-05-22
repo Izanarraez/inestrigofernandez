@@ -20,10 +20,10 @@
        <div class="row justify-content-end">
            <div class="col-12 text-light">
                 <div class="row">
-                    <div class="col-12 bg-dark text-light">
+                    <div class="col-12 bg-dark text-light bg-relojTi">
                         <h3>Tarifas</h3>
                     </div>
-                    <div class="col-12 col-md-8 justify-content-end">
+                    <div class="col-12 col-md-8 justify-content-end bg-relojT">
                         <h5 class="my-4">Duración</h5>
                         <p>
                             Las sesiones suelen tener una duración de entre 45 y 50 minutos.
