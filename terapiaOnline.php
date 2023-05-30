@@ -17,11 +17,11 @@
 
     <section class="container-fluid  bg-ordenador">
 
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-12 bg-dark text-light bg-ordenadorTi">
                 <h3 class="text-center">Terapias Online</h3>
             </div>
-            <div class="col-12 bg-ordenadorP">
+            <div class="col-12 col-md-8 mt-5 bg-ordenadorP">
                 <p>
                     Debido al ritmo de vida que llevamos donde  el tiempo es importante, ofrecemos un tipo de psicoterapia donde nos evitaremos los desplazamientos. 
                     Ponemos a tu alcance  sesiones on-line, donde solo deberéis disponer de un espacio íntimo, sin interrupciones, buena conexión a internet y un 
@@ -29,9 +29,16 @@
                     En los últimos meses, el cambio de presencial a on-line también en psicoterapia,  nos ha permitido comprobar que esto también es posible.
                 </p>
             </div>
+            <div class="col-12 col-md-8 mt-5 bg-ordenadorP">
+                
+            </div>
         </div>
 
     </section>
+
+    <!--
+        https://www.acercadepsicoterapia.com/terapia-online/
+    -->
     
     <?php require_once("plantillas/Footer.php")?>
 

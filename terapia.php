@@ -22,15 +22,94 @@
                 <h3>Terapias</h3>
             </div>
             <div class="col-12 bg-chico">
-                <h5>En mi práctica clínica, ofrezco terapia para una variedad de problemas y trastornos emocionales. Algunas de las áreas en las que me especializo incluyen:</h5>
-                <!--<ul>
-                    <li>Trastornos de ansiedad y depresión: la ansiedad y la depresión son trastornos emocionales comunes que pueden afectar significativamente la calidad de vida.</li>
-                    <li>Fobias: las fobias son miedos irracionales y abrumadores hacia objetos, situaciones o animales específicos.</li>
-                    <li>Problemas familiares y laborales: las dificultades en el ámbito familiar o laboral pueden generar estrés, conflictos y afectar negativamente el bienestar emocional.</li>
-                    <li>Trastornos de la personalidad: estos trastornos implican patrones de pensamiento, emociones y comportamientos persistentes que afectan la forma en que una persona percibe y se relaciona con el mundo.</li>
-                    <li>Trastornos alimenticios: trastornos como la anorexia, la bulimia y la alimentación compulsiva pueden generar graves consecuencias para la salud física y emocional.</li>
-                </ul>-->
                 <div class="row justify-content-center">
+
+                    <div class="col-12 col-md-3 m-3 bg-light rounded">
+                        <div class="row justify-content-center ">
+                            <div class="col-12"> 
+                                <h5 class="text-center border-bottom border-secondary border-2">Trastornos de ansiedad y depresión</h5>
+                            </div>
+                            <div class="col-12">
+                                <p>
+                                    La ansiedad y la depresión son trastornos emocionales comunes que pueden afectar significativamente la calidad de vida.<br>
+                                    La ansiedad y la depresión son trastornos emocionales comunes que pueden afectar significativamente la calidad de vida.<br>
+                                    La ansiedad y la depresión son trastornos emocionales comunes que pueden afectar significativamente la calidad de vida.<br>
+                                    La ansiedad y la depresión son trastornos emocionales comunes que pueden afectar significativamente la calidad de vida.<br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-3 m-3 bg-light rounded">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <h5 class="text-center border-bottom border-warning border-2">Fobias</h5>
+                            </div>
+                            <div class="col-12">
+                                <p>
+                                    Las fobias son miedos irracionales y abrumadores hacia objetos, situaciones o animales específicos.<br>
+                                    Las fobias son miedos irracionales y abrumadores hacia objetos, situaciones o animales específicos.<br>
+                                    Las fobias son miedos irracionales y abrumadores hacia objetos, situaciones o animales específicos.<br>
+                                    Las fobias son miedos irracionales y abrumadores hacia objetos, situaciones o animales específicos.<br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3 m-3 bg-light rounded">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <h5 class="text-center border-bottom border-danger border-2">Problemas familiares y laborales</h5>
+                            </div>
+                            <div class="col-12">
+                                <p>
+                                    Las dificultades en el ámbito familiar o laboral pueden generar estrés, conflictos y afectar negativamente el bienestar emocional.<br>
+                                    Las dificultades en el ámbito familiar o laboral pueden generar estrés, conflictos y afectar negativamente el bienestar emocional.<br>
+                                    Las dificultades en el ámbito familiar o laboral pueden generar estrés, conflictos y afectar negativamente el bienestar emocional.<br>
+                                    Las dificultades en el ámbito familiar o laboral pueden generar estrés, conflictos y afectar negativamente el bienestar emocional.<br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-5 m-3 rounded bg-danger-subtle">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <h5 class="text-center">Trastornos de la personalidad</h5>
+                            </div>
+                            <div class="col-12">
+                                <p>
+                                    Estos trastornos implican patrones de pensamiento, emociones y comportamientos persistentes que afectan la forma en que una persona percibe 
+                                    y se relaciona con el mundo.<br>
+                                    Estos trastornos implican patrones de pensamiento, emociones y comportamientos persistentes que afectan la forma en que una persona percibe 
+                                    y se relaciona con el mundo.<br>
+                                    Estos trastornos implican patrones de pensamiento, emociones y comportamientos persistentes que afectan la forma en que una persona percibe 
+                                    y se relaciona con el mundo.<br>
+                                    Estos trastornos implican patrones de pensamiento, emociones y comportamientos persistentes que afectan la forma en que una persona percibe 
+                                    y se relaciona con el mundo.<br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-5 m-3 rounded bg-success-subtle">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <h5 class="text-center">Trastornos alimenticios</h5>
+                            </div>
+                            <div class="col-12">
+                                <p>
+                                    Trastornos como la anorexia, la bulimia y la alimentación compulsiva pueden generar graves consecuencias para la salud física y emocional.<br>
+                                    Trastornos como la anorexia, la bulimia y la alimentación compulsiva pueden generar graves consecuencias para la salud física y emocional.<br>
+                                    Trastornos como la anorexia, la bulimia y la alimentación compulsiva pueden generar graves consecuencias para la salud física y emocional.<br>
+                                    Trastornos como la anorexia, la bulimia y la alimentación compulsiva pueden generar graves consecuencias para la salud física y emocional.<br>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+                <!--<h5>En mi práctica clínica, ofrezco terapia para una variedad de problemas y trastornos emocionales. Algunas de las áreas en las que me especializo incluyen:</h5>-->
+                <!--<div class="row justify-content-center">
                     <div class="col-12 col-md-2 d-flex justify-content-center">
                         <div class="card" style="width: 20rem;">
                             <img src="img/ansiedad.jpg" class="card-img-top img-ansiedad" alt="Fotografía de ansiedad">
@@ -124,33 +203,48 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
             </div>
-
+            <div class="col-12 bg-dark text-light">
+                <h5>Otras sintomatologías</h5>
+            </div>
+            <div class="col-12 bg-chica">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-8 chicaR">
+                        <p class="p-4 bg-">
+                            Las personas somos únicas y esto es, entre otras cosas, lo que nos otorga a cada uno de nosotros un valor incalculable, pero también nos acerca a los profesionales de 
+                            la salud, a entender que cada persona tiene maneras muy diferentes de manifestar tanto tanto el bienestar como el malestar, y no siempre le podemos poner un nombre a 
+                            lo que nos pasa, simplemente sentimos que no estamos a gusto, que no nos sentimos felices, que nos encontramos irascibles, estresados, que tenemos miedo pero no 
+                            podemos identificar a qué... incluso en ocasiones, aunque no nos sintamos mal, simplemente queremos ayuda para conocernos mejor, sacar el mejor partido de nosotros 
+                            mismos, gestionar de manera más saludable algunos ámbitos de nuestra vida... y en todas estas demandas, también estamos los psicologos para ayudaros.
+                        </p>
+                    </div>
+                </div>
+            </div>
             <div class="col-12 bg-success-subtle">
                 <h5>Cómo puedo ayudaros?</h5>
-            </div>
+            </div> 
             <div class="col-12 bg-ayuda">
                 <div class="row">
                     <div class="col-12 col-md-8">
                         <p class="bg-ayudaP">
-                            A través de la psicoterapia ayuda a mis pacientes a explorar y mejorar las dinámicas relacionales, encontrar soluciones constructivas y promover la comunicación efectiva. Esta psicoterapia permite desarrollar una mayor conciencia de uno mismo, mejorar las relaciones interpersonales y promover cambios positivos. 
-                            Trabajo con mis pacientes para abordar las causas subyacentes de estos trastornos y promover una relación saludable con uno mismo, fomentando la autoaceptación y el autocuidado.
+                            A través de la psicoterapia ayuda a mis pacientes a explorar y mejorar las dinámicas relacionales, encontrar soluciones constructivas y promover la comunicación 
+                            efectiva. Esta psicoterapia permite desarrollar una mayor conciencia de uno mismo, mejorar las relaciones interpersonales y promover cambios positivos. 
+                            Trabajo con mis pacientes para abordar las causas subyacentes de estos trastornos y promover una relación saludable con uno mismo, fomentando la autoaceptación 
+                            y el autocuidado.
                         </P>
                         <p class="bg-ayudaP">
-                            Si te encuentras lidiando con alguno de estos problemas o cualquier otro desafío emocional, estaré aquí para ofrecerte un espacio seguro y de apoyo, donde juntos podamos trabajar hacia tu bienestar emocional y una vida más satisfactoria.
+                            Si te encuentras lidiando con alguno de estos problemas o cualquier otro desafío emocional, estaré aquí para ofrecerte un espacio seguro y de apoyo, donde juntos 
+                            podamos trabajar hacia tu bienestar emocional y una vida más satisfactoria.
                         </p>
                         <div class="row align-items-center my-3">
                             <div class="col-12 d-flex justify-content-center">
                                 <a href="contacto.php" class="btn btn-warning h-5 mx-2 bg-ayudaB">Contactanos</a>
-                                <a href="contacto.php" class="btn btn-warning h-5 mx-2 bg-ayudaB">Pide Cita</a>
+                                <a href="pedirCita.php" class="btn btn-warning h-5 mx-2 bg-ayudaB">Pide Cita</a>
                             </div>
                         </div>
                     </div>
-                    <!--<div class="col-12 col-md-6 d-flex justify-content-center">
-                        <img src="img/carta.jpeg" class="img-fluid w-50" alt="Fotografía de en que tepodemos ayudar"> 
-                    </div>-->
                 </div> 
             </div> 
         </div>

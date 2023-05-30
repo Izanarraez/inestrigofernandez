@@ -21,6 +21,7 @@
     height:100%;
     display: flex;
     flex-direction: column;
+    background-color: #ffc1d5;
     position: relative;
 }
 
@@ -35,7 +36,7 @@
     background-attachment: fixed;
     width: 100%;
     height: 100%;
-    opacity: 0.8;
+    opacity: 0.2;
 }
 
 .bg-quienSoyT{
@@ -139,11 +140,37 @@
 
 /*Parte de Pedir Cita*/
 
-.bg-pedirCita{
+/*.bg-pluma{
     background-image: url(../img/pluma.jpeg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
+}*/
+
+.bg-pluma{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-pluma::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/pluma.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-plumaR{
+    position: relative;
 }
 
 /*Parte de Terapias*/
@@ -153,6 +180,32 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
+}
+
+.bg-chica{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-chica::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/chica.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-chicaR{
+    position: relative;
 }
 
 /*.bg-ayuda{
@@ -196,3 +249,40 @@
     position: relative;
 }
 
+/*Parte de Contacto*/
+
+.bg-buzon{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-buzon::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/buzon.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-buzonR{
+    position: relative;
+}
+
+.remove-bg{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+
+.img-terapias{
+    width: 100%;
+    height: 180px;
+}

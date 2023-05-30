@@ -3,7 +3,7 @@
         <div class="col-12 col-md-4 my-3"> <!--my-2-->
             <div class="row">
                 <div class="col-5 col-md-5 text-end">
-                    <a class="link link-dark" style="text-decoration: none;" href="#">Aviso Legal</a>
+                    <a class="link link-dark" style="text-decoration: none;" href="avisoLegal.php">Aviso Legal</a>
                 </div>
                 <div class="col-5 col-md-5 text-center">
                     <a class="link link-dark" style="text-decoration: none;" href="#">Politica de privacidad</a>

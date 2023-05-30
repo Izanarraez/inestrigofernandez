@@ -17,33 +17,43 @@
 
     <section class="container-fluid bg-reloj">
 
-       <div class="row justify-content-end">
-           <div class="col-12 text-light">
+        <div class="row">
+            <div class="col-12 bg-dark text-light bg-relojTi">
+                <h3 class="text-center">Tarifas</h3>
+            </div>
+        </div>
+       <div class="row justify-content-center">
+           <div class="col-8 text-light">
                 <div class="row">
-                    <div class="col-12 bg-dark text-light bg-relojTi">
-                        <h3>Tarifas</h3>
-                    </div>
-                    <div class="col-12 col-md-8 justify-content-end bg-relojT">
-                        <h5 class="my-4">Duración</h5>
-                        <p>
-                            Las sesiones suelen tener una duración de entre 45 y 50 minutos.
+                    <div class="col-12 col-md-6 justify-content-end bg-relojT">
+                        <h5 class="mt-5">Duración</h5>
+                        <p class="mt-4">
+                            Las sesiones tienen una duración de entre 45 y 50 minutos.
                         </p> 
-                        <h5 class="my-4">Precios</h5>
-                        <ul>
+                        <h5 class="mt-5">Precios</h5>
+                        <ul class="mt-4">
                             <li>
                                 Una sesión: 60€
                             </li>
                             <li>
                                 Bonos de 5 sesiones: 250€
                             </li>
-                            <li>
+                            <!--<li>
                                 Bonos de 10 sesiones: 450€
-                            </li>
-                        </ul>
-                        <h5 class="my-4">Convenios</h5>
-                        <p>
-                            También tengo convenios con empresas y precios especiales en casos de bajos ingresos.
+                            </li>-->
+                        </ul>  
+                    </div>
+                    <div class="col-12 col-md-6 bg-relojT">
+                        <h5 class="mt-5">Convenios</h5>
+                        <p class="mt-4">
+                            También se ofrecen tarifas especiales para empleados de empresas con las que tenemos convenio y en caso de bajos ingresos. No dudes en consultar.
                         </p>
+                        <div class="row align-items-center my-4">
+                            <div class="col-12 d-flex justify-content-center">
+                                <a href="contacto.php" class="btn btn-warning h-5 mx-2">Contactanos</a>
+                                <a href="pedirCita.php" class="btn btn-warning h-5 mx-2">Pide Cita</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
            </div>

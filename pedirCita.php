@@ -15,10 +15,31 @@
     <?php require_once("plantillas/Navbar.html")?>
     
 
-    <section class="container-fluid bg-pedirCita">
+    <section class="container-fluid bg-pluma">
 
-        <div class="row">
-            
+        <div class="row bg-plumaR">
+            <div class="col-12 bg-dark text-light">
+                <h3 class="text-center">Pedir Cita</h3>
+            </div>
+            <div class="col-12">
+                <div class="row justify-content-center">
+                    <div class="col-8 d-flex justify-content-center">
+                        <p>
+                        Mi árbol tenía</br>
+                        sus ramas de oro.</br>
+                        Un viento envidioso</br>
+                        robó mi tesoro.</br>
+                        Hoy no tiene ramas</br>
+                        Hoy no tiene sueños</br>
+                        mi árbol callado</br>
+                        mi árbol pequeño.</br>
+                        </p>
+                    </div>
+                    <div class="col-6  d-flex justify-content-center">
+                        <button class="btn btn-warning">Pedir cita</button>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </section>
