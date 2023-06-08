@@ -7,3 +7,8 @@ body{
 footer{
     margin-top: auto;
 }
+
+.remove-bg{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}

@@ -4,7 +4,7 @@
         <div class="container-fluid">
           <div class="row w-100 justify-content-between">
             <div class="col-9 col-md-5 d-flex justify-content-between align-items-start bg-navbarI">
-              <img class="img-fluid w-25" id="logo_navbar" src="img/logo2_nuevo.png" alt="logo_empresa">
+              <img class="img-fluid w-25" id="logo_navbar" src="img/logo1_nuevo.png" alt="logo_empresa">
             </div>
             <div class="col-3 col-md-7 d-flex justify-content-end flex-wrap bg-navbarH">
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarDropdown" aria-controls="navbarDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,17 +21,20 @@
                 <li class="nav-item">
                   <a class="nav-link text-end" href="terapia.php"><b>Terapias</b></a>
                 </li>
-                <li class="nav-item">
+                <!--<li class="nav-item">
                   <a class="nav-link text-end" href="pedirCita.php"><b>Pedir Cita</b></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link text-end" href="terapiaOnline.php"><b>Terapias Online</b></a>
-                </li>
+                </li>-->
                 <li class="nav-item">
                   <a class="nav-link text-end" href="tarifas.php"><b>Tarifas</b></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link text-end" href="contacto.php"><b>Contacto</b></a>
+                </li>
+                <li>
+                  <a class="nav-link text-end remove-bg" href="acceso.php"><?php require_once('svg/perfil.svg')?></a>
                 </li>
               </ul>
             </div>

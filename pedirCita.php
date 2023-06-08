@@ -1,9 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
+    <meta name="copyright" content="Psicología Ines Trigo Fernandez">
+    <meta name="author" content="Ines Trigo Fernandez">
+    <meta name="audience" content="all">
+    <meta name="description" content="Web de Pisicologio en Madrid">
+    <meta name="keywords" content="Pedir cita pisicología en Madrid, pedir cita psicología en madrid, pedir cita psicologia en madrid, PEDIR CITA PSICOLOGÍA EN MADRID,
+                                   pedir cita psicologa en madrid, Pedir cita psicologa en madrid, PEDIR CITA PSICOLOGA EN MADRID">
+    <meta name="robots" content="index, all, follow">
+    <meta name="category" content="pedir cita psicologa, pedr cita psicologa en madrid">
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Pedir Cita</title>
 
     <?php require_once("plantillas/links.html")?>
@@ -12,7 +23,7 @@
 </head>
 <body>
 
-    <?php require_once("plantillas/Navbar.html")?>
+    <?php require_once("plantillas/Navbar.php")?>
     
 
     <section class="container-fluid bg-pluma">
@@ -36,7 +47,7 @@
                         </p>
                     </div>
                     <div class="col-6  d-flex justify-content-center">
-                        <button class="btn btn-warning">Pedir cita</button>
+                        <button class="btn btn-rp">Pedir cita</button>
                     </div>
                 </div>
             </div>

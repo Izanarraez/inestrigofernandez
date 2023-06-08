@@ -1,20 +1,8 @@
-/*.bg-navbar{
-    background: #fff8e7;
-    opacity: 0.8;
-}*/
-
 .bg-navbar{
     background: #fff8e7;
 }
 
 /*Parte de Quien Soy*/
-
-/*.bg-quienSoy{
-    background-image: url(../img/despacho3.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-}*/
 
 .bg-quienSoy{
     width: 100%;
@@ -56,13 +44,6 @@
 
 /*Parte de Terapias Online*/
 
-/*.bg-ordenador{
-    background-image: url(../img/ordenador.jpeg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-}*/
-
 .bg-ordenador{
     width: 100%;
     height:100%;
@@ -98,13 +79,6 @@
 
 /*Parte de Tarifas*/
 
-/*.bg-reloj{
-    background-image: url(../img/reloj.jpeg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-}*/
-
 .bg-reloj{
     width: 100%;
     height:100%;
@@ -139,13 +113,6 @@
 }
 
 /*Parte de Pedir Cita*/
-
-/*.bg-pluma{
-    background-image: url(../img/pluma.jpeg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-}*/
 
 .bg-pluma{
     width: 100%;
@@ -208,13 +175,6 @@
     position: relative;
 }
 
-/*.bg-ayuda{
-    background-image: url(../img/carta.jpeg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-attachment: fixed;
-}*/
-
 .bg-ayuda{
     width: 100%;
     height:100%;
@@ -245,7 +205,7 @@
     padding: 10px;
 }
 
-.bg-ayudaB{
+.bg-ayudaR{
     position: relative;
 }
 
@@ -285,4 +245,20 @@
 .img-terapias{
     width: 100%;
     height: 180px;
+}
+
+.btn-warning{
+    background-color: #ffc1d5;
+}
+
+.btn-rp{
+    background-color: #ffc1d5 !important;
+}
+
+.bg-tr{
+    background-color: #fff8e7;
+}
+
+.bg-rs{
+    background-color: #ffc1d5;
 }

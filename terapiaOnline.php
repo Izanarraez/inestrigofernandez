@@ -2,9 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="copyright" content="Psicología Ines Trigo Fernandez">
+    <meta name="author" content="Ines Trigo Fernandez">
+    <meta name="audience" content="all">
+    <meta name="description" content="Web de Pisicologio en Madrid">
+    <meta name="keywords" content="Terapias online en Madrid, terapias online en madrid, Tipos de tetapias online en madrid, TERAPIAS ONLINE EN MADRID,
+                                   TIPOS DE TERAPIAS ONLINE EN MADRID">
+    <meta name="robots" content="index, all, follow">
+    <meta name="category" content="terapias online en madrid, tipos de terapias online en madrid">
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quien Soy</title>
+
+    <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
+    <title>Terapias Online</title>
 
     <?php require_once("plantillas/links.html")?>
 
@@ -12,7 +23,7 @@
 </head>
 <body>
 
-    <?php require_once("plantillas/Navbar.html")?>
+    <?php require_once("plantillas/Navbar.php")?>
     
 
     <section class="container-fluid  bg-ordenador">

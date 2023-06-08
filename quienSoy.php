@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
+    <meta name="copyright" content="Psicología Ines Trigo Fernandez">
+    <meta name="author" content="Ines Trigo Fernandez">
+    <meta name="audience" content="all">
+    <meta name="description" content="Web de Pisicologio en Madrid">
+    <meta name="keywords" content="Quien es Ines Trigo Fernandez, quien es ines trigo fernandez, QUIEN ES INES TRIGO FERNANDEZ">
+    <meta name="robots" content="index, all, follow">
+    <meta name="category" content="terapias coste psicología, terapia coste psicologia, coste de una terapia en madrid">
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Quien Soy</title>
 
     <?php require_once("plantillas/links.html")?>
@@ -12,7 +22,7 @@
 </head>
 <body>
 
-    <?php require_once("plantillas/Navbar.html")?>
+    <?php require_once("plantillas/Navbar.php")?>
     
 
     <section class="container-fluid bg-quienSoy">

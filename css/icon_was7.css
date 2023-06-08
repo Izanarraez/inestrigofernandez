@@ -1,0 +1,8 @@
+.btn_was{
+    position: fixed;
+    line-height: 20px;
+    bottom: 3px;
+    right: -130px;
+    text-align: end;
+    width: 200px;
+ }
