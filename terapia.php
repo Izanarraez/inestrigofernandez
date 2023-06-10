@@ -116,7 +116,7 @@
                 </div>
             </div>
             <div class="col-12 bg-success-subtle">
-                <h2 class="text-center">Cómo puedo ayudaros?</h2>
+                <h2 class="text-center">¿Cómo puedo ayudaros?</h2>
             </div> 
             <div class="col-12 bg-ayuda">
                 <div class="row m-4 justify-content-center">
