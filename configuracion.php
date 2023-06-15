@@ -30,8 +30,8 @@
                         <fieldset class="col-12 col-md-12 mt-2">
                                     <legend>Inicio</legend>
                                     <div class="input_group">
-                                        <label for="logo_1" class="d-none">Logo</label>
-                                        <input type="text"
+                                        <label for="logo_1">Logo</label>
+                                        <input type="file"
                                             name="logo_1"
                                             class="form-control"
                                             placeholder="Cambiar logo">
@@ -44,8 +44,8 @@
                                             placeholder="Cambiar fondo barra de navegacion">
                                     </div>
                                     <div class="input_group">
-                                        <label for="img_1" class="d-none">Imagen de fondo</label>
-                                        <input type="text"
+                                        <label for="img_1">Imagen de fondo</label>
+                                        <input type="file"
                                             name="img_1"
                                             class="form-control"
                                             placeholder="Cambiar imagen de fondo">
@@ -69,15 +69,15 @@
                         <fieldset class="col-12 col-md-12 mt-2">
                                     <legend>Quien soy</legend>
                                     <div class="input_group">
-                                        <label for="logo_2" class="d-none">Logo</label>
-                                        <input type="text"
+                                        <label for="logo_2">Logo</label>
+                                        <input type="file"
                                             name="logo_2"
                                             class="form-control"
                                             placeholder="Cambiar logo">
                                     </div>
                                     <div class="input_group">
-                                        <label for="img_2" class="d-none">Imagen de fondo</label>
-                                        <input type="text"
+                                        <label for="img_2">Imagen de fondo</label>
+                                        <input type="file"
                                             name="img_2"
                                             class="form-control"
                                             placeholder="Cambiar imagen de fondo">
@@ -87,7 +87,7 @@
                                         <input type="text"
                                             name="tc_1"
                                             class="form-control"
-                                            placeholder="Cambiar imagen de fondo">
+                                            placeholder="Cambiar color de titulo">
                                     </div>
                                     <div class="input_group">
                                         <label for="tf_1" class="d-none">Titulo fondo</label>
@@ -108,15 +108,15 @@
                         <fieldset class="col-12 col-md-12 mt-2">
                                     <legend>Terapias</legend>
                                     <div class="input_group">
-                                        <label for="logo_3" class="d-none">Logo</label>
-                                        <input type="text"
+                                        <label for="logo_3">Logo</label>
+                                        <input type="file"
                                             name="logo_3"
                                             class="form-control"
                                             placeholder="Cambiar logo">
                                     </div>
                                     <div class="input_group">
-                                        <label for="img_3" class="d-none">Imagen de fondo</label>
-                                        <input type="text"
+                                        <label for="img_3">Imagen de fondo</label>
+                                        <input type="file"
                                             name="img_3"
                                             class="form-control"
                                             placeholder="Cambiar imagen de fondo">
@@ -126,7 +126,7 @@
                                         <input type="text"
                                             name="tc_2"
                                             class="form-control"
-                                            placeholder="Cambiar imagen de fondo">
+                                            placeholder="Cambiar color de titulo">
                                     </div>
                                     <div class="input_group">
                                         <label for="tf_2" class="d-none">Titulo fondo</label>
@@ -154,8 +154,8 @@
                         <fieldset class="col-12 col-md-12 mt-2">
                                     <legend>¿Como puedo ayudaros?</legend>
                                     <div class="input_group">
-                                        <label for="img_4" class="d-none">Imagen de fondo</label>
-                                        <input type="text"
+                                        <label for="img_4">Imagen de fondo</label>
+                                        <input type="file"
                                             name="img_4"
                                             class="form-control"
                                             placeholder="Cambiar imagen de fondo">
@@ -165,7 +165,7 @@
                                         <input type="text"
                                             name="tc_3"
                                             class="form-control"
-                                            placeholder="Cambiar imagen de fondo">
+                                            placeholder="Cambiar color de titulo">
                                     </div>
                                     <div class="input_group">
                                         <label for="tf_3" class="d-none">Titulo fondo</label>
@@ -200,8 +200,8 @@
                         <fieldset class="col-12 col-md-12 mt-2">
                                     <legend>Tarifas</legend>
                                     <div class="input_group">
-                                        <label for="img_5" class="d-none">Imagen de fondo</label>
-                                        <input type="text"
+                                        <label for="img_5">Imagen de fondo</label>
+                                        <input type="file"
                                             name="img_5"
                                             class="form-control"
                                             placeholder="Cambiar imagen de fondo">
@@ -211,7 +211,7 @@
                                         <input type="text"
                                             name="tc_4"
                                             class="form-control"
-                                            placeholder="Cambiar imagen de fondo">
+                                            placeholder="Cambiar color de titulo">
                                     </div>
                                     <div class="input_group">
                                         <label for="tf_4" class="d-none">Titulo fondo</label>
@@ -246,8 +246,8 @@
                         <fieldset class="col-12 col-md-12 mt-2">
                                     <legend>Contacto</legend>
                                     <div class="input_group">
-                                        <label for="img_6" class="d-none">Imagen de fondo</label>
-                                        <input type="text"
+                                        <label for="img_6">Imagen de fondo</label>
+                                        <input type="file"
                                             name="img_6"
                                             class="form-control"
                                             placeholder="Cambiar imagen de fondo">
@@ -257,7 +257,7 @@
                                         <input type="text"
                                             name="tc_5"
                                             class="form-control"
-                                            placeholder="Cambiar imagen de fondo">
+                                            placeholder="Cambiar color de titulo">
                                     </div>
                                     <div class="input_group">
                                         <label for="tf_5" class="d-none">Titulo fondo</label>
@@ -286,6 +286,38 @@
                                             name="clb_3"
                                             class="form-control"
                                             placeholder="Cambiar color letra de botones">
+                                    </div>
+                        </fieldset>
+
+                        <fieldset class="col-12 col-md-12 mt-2">
+                                    <legend>Barra de navegacion y pie de pagina</legend>
+                                    <div class="input_group">
+                                        <label for="cpp_2" class="d-none">Color pie de pagina</label>
+                                        <input type="text"
+                                            name="cpp_2"
+                                            class="form-control"
+                                            placeholder="Cambiar color pie de pagina">
+                                    </div>
+                                    <div class="input_group">
+                                        <label for="clp_2" class="d-none">Color letras pie de pagina</label>
+                                        <input type="text"
+                                            name="clp_2"
+                                            class="form-control"
+                                            placeholder="Cambiar color letras pie de pagina">
+                                    </div>
+                                    <div class="input_group">
+                                        <label for="cfb_2" class="d-none">Color fondo barra de navegacion</label>
+                                        <input type="text"
+                                            name="cfb_2"
+                                            class="form-control"
+                                            placeholder="Cambiar color fondo barra de navegacion">
+                                    </div>
+                                    <div class="input_group">
+                                        <label for="cln_1" class="d-none">Color letras barra de navegación</label>
+                                        <input type="text"
+                                            name="cln_1"
+                                            class="form-control"
+                                            placeholder="Cambiar color letras barra de navegación">
                                     </div>
                         </fieldset>
 

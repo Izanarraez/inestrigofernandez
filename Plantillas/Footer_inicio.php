@@ -20,7 +20,7 @@
         </div>
         <div class="col-12 col-md-4 my-3 d-none d-md-flex">
             <div class="row">
-                <div class="col-4">
+                <div class="col-5">
                     <p class="link-color">699 67 34 51</p>
                 </div>
                 <div class="col-5">

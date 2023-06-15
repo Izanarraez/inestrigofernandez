@@ -32,8 +32,8 @@
             <div class="col-12 my-3">
                 <h2>1.Datos identificativos</h2>
                 <p>El titular del Sitio Web <a href="">https://www.inestrigo.com/</a> es Ines Trigo Fernandez, entidad jurídica constituida al amparo de la legislación 
-                española, con CIF B-88229364 y domicilio en Calle Núñez de Balboa 35 A, Piso 5, Oficina A1 28001 - Madrid (Madrid), teléfono 647 518 100, inscrita en el 
-                Registro Mercantil de Madrid al Tomo 38273, Folio 65, Sección GNE Hoja Nº 681002 y con correo electrónico info@abacodev.com</p>
+                española, con CIF B-88229364 y domicilio en Calle Núñez de Balboa 35 A, Piso 5, Oficina A1 28001 - Madrid (Madrid), teléfono 699 67 34 51, inscrita en el 
+                Registro Mercantil de Madrid al Tomo 38273, Folio 65, Sección GNE Hoja Nº 681002 y con correo electrónico inestrigo@gmail.com</p>
             </div>
             <div class="col-12 my-3">
                 <h2>2.El Sitio Web</h2>

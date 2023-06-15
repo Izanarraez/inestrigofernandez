@@ -1,0 +1,264 @@
+.bg-navbar{
+    background: #fff8e7;
+}
+
+/*Parte de Quien Soy*/
+
+.bg-quienSoy{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffc1d5;
+    position: relative;
+}
+
+.bg-quienSoy::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/despacho3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-quienSoyT{
+    position: relative;
+    width: 100%;
+    height: auto;
+    color: black;
+}
+
+.bg-quienSoyI{
+    position: relative;
+}
+
+.bg-quienSoyTi{
+    position: relative;
+}
+
+/*Parte de Terapias Online*/
+
+.bg-ordenador{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-ordenador::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/ordenador.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-ordenadorP{
+    position: relative;
+    width: 100%;
+    height: auto;
+    color: black;
+}
+
+.bg-ordenadorTi{
+    position: relative;
+}
+
+/*Parte de Tarifas*/
+
+.bg-reloj{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-reloj::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/reloj.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-relojT{
+    position: relative;
+    width: 100%;
+    height: auto;
+    color: black;
+}
+
+.bg-relojTi{
+    position: relative;
+}
+
+/*Parte de Pedir Cita*/
+
+.bg-pluma{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-pluma::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/pluma.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-plumaR{
+    position: relative;
+}
+
+/*Parte de Terapias*/
+
+.bg-chico{
+    background-image: url(../img/chico.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-chica{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-chica::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/chica.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-chicaR{
+    position: relative;
+}
+
+.bg-ayuda{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-ayuda::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/carta.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-ayudaP{
+    position: relative;
+    width: 100%;
+    height: auto;
+    color: black;
+    padding: 10px;
+}
+
+.bg-ayudaR{
+    position: relative;
+}
+
+/*Parte de Contacto*/
+
+.bg-buzon{
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bg-buzon::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(../img/buzon.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.bg-buzonR{
+    position: relative;
+}
+
+.remove-bg{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+}
+
+.img-terapias{
+    width: 100%;
+    height: 180px;
+}
+
+.btn-warning{
+    background-color: #ffc1d5;
+}
+
+.btn-rp{
+    background-color: #ffc1d5 !important;
+}
+
+.bg-tr{
+    background-color: #fff8e7;
+}
+
+.bg-rs{
+    background-color: #ffc1d5;
+}

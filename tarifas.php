@@ -62,7 +62,7 @@
                         <div class="row align-items-center my-4">
                             <div class="col-12 d-flex justify-content-center">
                                 <a href="contacto.php" class="btn btn-rp h-5 mx-2">Contactanos</a>
-                                <a href="pedirCita.php" class="btn btn-rp h-5 mx-2">Pide Cita</a>
+                                <!--<a href="pedirCita.php" class="btn btn-rp h-5 mx-2">Pide Cita</a>-->
                             </div>
                         </div>
                     </div>
