@@ -71,7 +71,7 @@
                         <h3 class="text-center my-2 me-5">Como llegar</h3>
                         <div class="row justify-content-center">
                             <div class="col-6 text-center my-2 me-5">
-                                <a href="https://www.google.es/maps/place/C.+Afueras+a+Valverde,+16,+28034+Madrid/@40.4979089,-3.6917756,17z/data=!3m1!4b1!4m6!3m5!1s0xd422bd9175daf99:0x4b0cf71f62e8c71c!8m2!3d40.4979048!4d-3.6892007!16s%2Fg%2F11csntgg44?hl=es" class="btn btn-rp w-50" style="text-decoration: none; color:black" target="_blank">Pulsa Aquí</a>
+                                <a href="https://www.google.es/maps/place/C.+Afueras+a+Valverde,+16,+28034+Madrid/@40.4979089,-3.6917756,17z/data=!3m1!4b1!4m6!3m5!1s0xd422bd9175daf99:0x4b0cf71f62e8c71c!8m2!3d40.4979048!4d-3.6892007!16s%2Fg%2F11csntgg44?hl=es" class="btn btn-rp" style="text-decoration: none; color:black" target="_blank">Pulsa Aquí</a>
                             </div>
                             <div class="col-10 col-md-8 my-2">
                                 <p class="remove-bg"><?php require_once('svg/ubicacion.svg')?>  C. Afueras a Valverde, 16, 28034 Madrid</p>

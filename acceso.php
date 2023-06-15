@@ -27,21 +27,21 @@
                 <form>
                     <div class="row justify-content-center">
                         <fieldset class="col-12 col-md-12 mt-2">
-                            <legend>Correo</legend>
+                            <legend>Usuario</legend>
                             <div class="input_group">
-                                <label for="correo" class="d-none">Correo</label>
+                                <label for="usuario" class="d-none">Usuario</label>
                                 <input type="text"
-                                    name="correo"
+                                    name="usuario"
                                     class="form-control"
-                                    placeholder="Correo"
-                                    id="correo_acceso">
+                                    placeholder="Usuario"
+                                    id="usuario_acceso">
                             </div>
                         </fieldset>
                         <fieldset class="col-12 col-md-12 mt-2">
                             <legend>Contrasena</legend>
                             <div class="input_group">
                                 <label for="correo" class="d-none">Contrasena</label>
-                                <input type="text"
+                                <input type="password"
                                     name="contraseña"
                                     class="form-control"
                                     placeholder="Contraseña"
@@ -49,13 +49,15 @@
                             </div>
                         </fieldset>
                         <fieldset class="col-12 d-flex justify-content-center">
-                            <a href="configuracion.php" class="btn btn-rp m-2">Entrar</a>
+                            <a href="#" class="btn btn-rp m-2" id="boton_acceso">Entrar</a>
                         </fieldset>
                 </form>
             </div>
         </div>
         
     </section>
+
+    <script src="js/acceso.js"></script>
     
     <?php require_once("plantillas/Footer.php")?>
 
