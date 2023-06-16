@@ -33,7 +33,7 @@
                 <h1>Terapias</h1>
             </div>
             <div class="col-12 bg-chico">
-                <div class="row m-5 p-5 m-md-0 justify-content-center">
+                <div class="row m-md-5 p-5 m-md-0 justify-content-center">
 
                     <div class="col-12 col-md-3 m-3 bg-tr rounded">
                         <div class="row justify-content-center ">
@@ -146,7 +146,7 @@
     
     <?php require_once("plantillas/Footer.php")?>
 
-    <?php require_once('plantillas/whatsapp.html')?>
+    <?php require_once('plantillas/whatsapp.php')?>
 
 </body>
 </html>

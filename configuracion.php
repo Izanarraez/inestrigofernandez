@@ -333,7 +333,5 @@
     
     <?php require_once("plantillas/Footer.php")?>
 
-    <?php require_once('plantillas/whatsapp.html')?>
-
 </body>
 </html>

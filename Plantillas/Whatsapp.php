@@ -2,7 +2,7 @@
     <div class="row btn_was">
         <div class="col-4">
             <a href="https://wa.me/699673451" target="_blank" class="">
-                <img class="w-100 rounded-circle" src="Img/whatsapp.jpg" alt="icono_Whatsapp">
+                <img class="w-100 rounded-circle" src="img/whatsapp.jpg" alt="icono_Whatsapp">
             </a>
         </div>
     </div>

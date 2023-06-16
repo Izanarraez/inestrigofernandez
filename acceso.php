@@ -61,6 +61,5 @@
     
     <?php require_once("plantillas/Footer.php")?>
 
-    <?php require_once('plantillas/Whatsapp.html')?>
 </body>
 </html>

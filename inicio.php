@@ -30,7 +30,7 @@
 
      <?php require_once('plantillas/Footer_inicio.php')?>
      
-     <?php require_once('plantillas/whatsapp.html')?>
+     <?php require_once('plantillas/Whatsapp.php')?>
      
 </body>
 </html>
