@@ -17,7 +17,7 @@
     <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Tarifas</title>
 
-    <?php require_once("plantillas/links.html")?>
+    <?php require_once("plantillas/links.php")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -49,20 +49,16 @@
                             <li>
                                 Bonos de 5 sesiones: 250€
                             </li>
-                            <!--<li>
-                                Bonos de 10 sesiones: 450€
-                            </li>-->
                         </ul>  
                     </div>
                     <div class="col-12 col-md-6 bg-relojT">
                         <h5 class="mt-5">Convenios</h5>
                         <p class="mt-4">
-                            También se ofrecen tarifas especiales para empleados de empresas con las que tenemos convenio y en caso de bajos ingresos. No dudes en consultar.
+                            También se ofrecen tarifas especiales para empleados de empresas con las que tenemos convenio. No dudes en consultar.
                         </p>
                         <div class="row align-items-center my-4">
                             <div class="col-12 d-flex justify-content-center">
                                 <a href="contacto.php" class="btn btn-rp h-5 mx-2">Contactanos</a>
-                                <!--<a href="pedirCita.php" class="btn btn-rp h-5 mx-2">Pide Cita</a>-->
                             </div>
                         </div>
                     </div>
