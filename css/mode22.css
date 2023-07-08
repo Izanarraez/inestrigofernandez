@@ -263,6 +263,55 @@
     background-color: #ffc1d5;
 }
 
+/*Footer*/
+
 .d-background{
     background: #fff8e7
+}
+
+body{
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+}
+
+footer{
+    margin-top: auto;
+}
+
+/*Multidioma*/
+
+.ch{
+    display: inline-block;
+    width: 65px;
+    height: 35px;
+    background: #979797;
+    border-radius: 100px;
+    position: relative;
+    transition: .2s;
+}
+
+.ch::after{
+    content: '';
+    display: block;
+    width: 25px;
+    height: 25px;
+    background: white;
+    border-radius: 100px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    transition: .2s;
+}
+
+#chek:checked + .ch::after{
+    left: 35px;
+}
+
+#chek:checked + .ch{
+    background-color: aquamarine;
+}
+
+#chek{
+    display: none;
 }

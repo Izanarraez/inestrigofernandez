@@ -12,7 +12,7 @@
     <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Configuracion</title>
 
-    <?php require_once("plantillas/links.html")?>
+    <?php require_once("plantillas/links.php")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -24,6 +24,23 @@
     <section class="container-fluid">
 
         <div class="row">
+            <div class="col-12">
+                <div class="row">
+                    <div class="col-6">
+                        <p>Deseas que la pagina sea multidioma</p>
+                    </div>
+                    <div class="col-6 d-flex justify-content-end">
+                        <p class="m-2">No</p>
+                        <div class="row m-2">
+                            <div class="col-12">
+                                <input type="checkbox" id="chek">
+                                <label for="chek" class="ch">
+                            </div>
+                        </div>
+                        <p class="m-2">SI</p>
+                    </div>
+                </div>
+            </div>
             <div class="col-12">
                 <form>
                     <div class="row my-3">

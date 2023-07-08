@@ -12,7 +12,7 @@
     <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Avisio Legal</title>
 
-    <?php require_once("plantillas/links.html")?>
+    <?php require_once("plantillas/links.php")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -32,7 +32,7 @@
             <div class="col-12 my-3">
                 <h2>1.Datos identificativos</h2>
                 <p>El titular del Sitio Web <a href="https://www.inestrigo.com/" style="text-decoration: none; color:black;" class="fst-italic">https://www.inestrigo.com/</a> es Ines Trigo Fernandez, entidad jurídica constituida al amparo de la legislación 
-                española, con CIF B-88229364 y dirección en Calle afueras a valverde, 16 28034 - Madrid (Madrid), teléfono 699 67 34 51 y con correo electrónico inestrigo@gmail.com</p>
+                española, con DNI 47015082-T y dirección en Calle afueras a valverde, 16 28034 - Madrid (Madrid), teléfono 699 67 34 51 y con correo electrónico inestrigo@gmail.com</p>
             </div>
             <div class="col-12 my-3">
                 <h2>2.El Sitio Web</h2>
@@ -216,12 +216,6 @@
                 </div>
             </div>
         </div>
-
-        <!--
-            https://www.psicologosencolladovillalba.es/es/aviso-legal/
-            https://davidcuesta.es/blog/tutorial-textos-legales/
-            https://marinabrocca.com/aviso-legal/
-        -->
 
     </section>
     

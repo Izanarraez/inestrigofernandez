@@ -17,7 +17,7 @@
     <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Pedir Cita</title>
 
-    <?php require_once("plantillas/links.html")?>
+    <?php require_once("plantillas/links.php")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -34,20 +34,9 @@
             </div>
             <div class="col-12">
                 <div class="row justify-content-center">
-                    <div class="col-8 d-flex justify-content-center">
-                        <p>
-                        Mi árbol tenía</br>
-                        sus ramas de oro.</br>
-                        Un viento envidioso</br>
-                        robó mi tesoro.</br>
-                        Hoy no tiene ramas</br>
-                        Hoy no tiene sueños</br>
-                        mi árbol callado</br>
-                        mi árbol pequeño.</br>
-                        </p>
-                    </div>
-                    <div class="col-6  d-flex justify-content-center">
-                        <button class="btn btn-rp">Pedir cita</button>
+                    <div class="col-8 d-flex justify-content-center mt-4 mb-4">
+                        <a id="zl-url" class="zl-url" href="https://www.doctoralia.es/ines-trigo-fernandez/psicologo/madrid" rel="nofollow" data-zlw-doctor="ines-trigo-fernandez" data-zlw-type="big_with_calendar" data-zlw-opinion="false" data-zlw-hide-branding="true">Ines Trigo Fernández - Doctoralia.es</a>
+                        <script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
                     </div>
                 </div>
             </div>

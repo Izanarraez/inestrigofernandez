@@ -34,7 +34,7 @@
                   <a class="nav-link text-end" href="contacto.php"><b>Contacto</b></a>
                 </li>
                 <li>
-                  <a class="nav-link text-end remove-bg" href="acceso.php" aria-label="Inicio de administrador"><?php require_once('svg/perfil.svg')?></a>
+                  <a class="nav-link text-end remove-bg" href="acceso.php" aria-label="Inicio de administrador"><?php require_once("svg/perfil.svg")?></a>
                 </li>
               </ul>
             </div>

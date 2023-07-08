@@ -17,7 +17,7 @@
     <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Terapias</title>
 
-    <?php require_once("plantillas/links.html")?>
+    <?php require_once("plantillas/links.php")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -146,7 +146,7 @@
     
     <?php require_once("plantillas/Footer.php")?>
 
-    <?php require_once('plantillas/whatsapp.php')?>
+    <?php require_once("plantillas/Whatsapp.php")?>
 
 </body>
 </html>

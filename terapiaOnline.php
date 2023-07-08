@@ -17,7 +17,7 @@
     <link rel="icon" type="image/x-icon" href="img/logo2_nuevo.png">
     <title>Terapias Online</title>
 
-    <?php require_once("plantillas/links.html")?>
+    <?php require_once("plantillas/links.php")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 </head>
@@ -46,10 +46,6 @@
         </div>
 
     </section>
-
-    <!--
-        https://www.acercadepsicoterapia.com/terapia-online/
-    -->
     
     <?php require_once("plantillas/Footer.php")?>
 

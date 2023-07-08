@@ -19,7 +19,7 @@
 
     <title>Inicio</title>
 
-    <?php require_once("plantillas/links_inicio.html")?>
+    <?php require_once("plantillas/links_inicio.php")?>
 
     <?php require_once("plantillas/Bootstrap.html")?>
 
