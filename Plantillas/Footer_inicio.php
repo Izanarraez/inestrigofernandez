@@ -26,5 +26,15 @@
                 </div>
             </div>
         </div>
+        <div class="col-12 col-md-12">
+            <div class="row d-flex justify-content-center">
+                <div class="col-6">
+                    <p class="text-danger text-end">Español</p>
+                </div>
+                <div class="col-6">
+                    <p class="text-warning">Ingles</p>
+                </div>
+            </div>
+        </div>
     </div>
 </footer>
