@@ -116,7 +116,7 @@
                 </div>
             </div>
             <div class="col-12 bg-success-subtle">
-                <h2 class="text-center">¿Cómo puedo ayudaros?</h2>
+                <h2 class="text-center">¿Cómo puedo ayudarte?</h2>
             </div> 
             <div class="col-12 bg-ayuda">
                 <div class="row m-4 justify-content-center">
@@ -133,7 +133,7 @@
                         </p>
                         <div class="row align-items-center my-3 bg-ayudaR">
                             <div class="col-12 d-flex justify-content-center">
-                                <a href="contacto.php" class="btn btn-rp h-5 mx-2">Contactanos</a>
+                                <a href="contacto.php" class="btn btn-rp h-5 mx-2">Contáctanos</a>
                                 <!--<a href="pedirCita.php" class="btn btn-rp h-5 mx-2">Pide Cita</a>-->
                             </div>
                         </div>

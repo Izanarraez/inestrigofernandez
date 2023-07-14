@@ -22,7 +22,7 @@
                     <p>699 67 34 51</p>
                 </div>
                 <div class="col-5">
-                    <p>inestrigo@gmail.com</p>
+                    <p>itfserviciopsicología@gmail.com</p>
                 </div>
             </div>
         </div>

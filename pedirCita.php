@@ -30,7 +30,7 @@
 
         <div class="row bg-plumaR">
             <div class="col-12 bg-dark text-light">
-                <h3 class="text-center">Pedir Cita</h3>
+                <h1 class="text-center">Pedir Cita</h1>
             </div>
             <div class="col-12">
                 <div class="row justify-content-center">

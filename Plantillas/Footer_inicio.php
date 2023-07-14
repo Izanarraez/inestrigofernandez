@@ -3,7 +3,7 @@
         <div class="col-7 col-md-4 my-3">
             <div class="row">
                 <div class="col-5 col-md-5 text-end">
-                    <a class="link link-color" style="text-decoration: none;" href="avisoLegal.php">Aviso Legal</a>
+                    <a class="link link-color" style="text-decoration: none;" href="avisoLegal.php">Aviso Legal</a> <!--Legal Warning-->
                 </div>
             </div>
         </div>
@@ -22,19 +22,19 @@
                     <p class="link-color">699 67 34 51</p>
                 </div>
                 <div class="col-5">
-                    <p class="link-color">inestrigo@gmail.com</p>
+                    <p class="link-color">itfserviciopsicología@gmail.com</p>
                 </div>
             </div>
         </div>
-        <div class="col-12 col-md-12">
+        <!--<div class="col-12 col-md-12">
             <div class="row d-flex justify-content-center">
                 <div class="col-6">
-                    <p class="text-danger text-end">Español</p>
+                    <p class="text-danger text-end">Español</p> <-!--Spanish-!->
                 </div>
                 <div class="col-6">
-                    <p class="text-warning">Ingles</p>
+                    <p class="text-warning">Ingles</p> <-!--English-!->
                 </div>
             </div>
-        </div>
+        </div>-->
     </div>
 </footer>

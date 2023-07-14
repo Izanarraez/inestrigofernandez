@@ -30,7 +30,7 @@
 
         <div class="row justify-content-center">
             <div class="col-12 bg-dark text-light bg-ordenadorTi">
-                <h3 class="text-center">Terapias Online</h3>
+                <h1 class="text-center">Terapias Online</h1>
             </div>
             <div class="col-12 col-md-8 mt-5 bg-ordenadorP">
                 <p>

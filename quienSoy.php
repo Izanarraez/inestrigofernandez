@@ -8,7 +8,6 @@
     <meta name="description" content="Web de Pisicologio en Madrid">
     <meta name="keywords" content="Quien es Ines Trigo Fernandez, quien es ines trigo fernandez, QUIEN ES INES TRIGO FERNANDEZ">
     <meta name="robots" content="index, all, follow">
-    <meta name="category" content="terapias coste psicología, terapia coste psicologia, coste de una terapia en madrid">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,7 +28,7 @@
 
         <div class="row">
             <div class="col-12 order-0 bg-dark text-light bg-quienSoyTi">
-                <h1>Quien soy</h1>
+                <h1>Quién soy</h1>
             </div>
             <div class="col-12">
                 <div class="row align-items-center">

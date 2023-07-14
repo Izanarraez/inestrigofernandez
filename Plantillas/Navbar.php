@@ -16,7 +16,7 @@
                   <a class="nav-link text-end" href="inicio.php"><b>Inicio</b></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link text-end" href="quienSoy.php"><b>Quien soy</b></a>
+                  <a class="nav-link text-end" href="quienSoy.php"><b>Quién soy</b></a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link text-end" href="terapia.php"><b>Terapias</b></a>

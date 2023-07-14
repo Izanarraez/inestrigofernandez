@@ -30,7 +30,7 @@
 
         <div class="row">
             <div class="col-12 bg-dark text-light bg-relojTi">
-                <h3 class="text-center">Tarifas</h3>
+                <h1 class="text-center">Tarifas</h1>
             </div>
         </div>
        <div class="row justify-content-center">
@@ -58,7 +58,7 @@
                         </p>
                         <div class="row align-items-center my-4">
                             <div class="col-12 d-flex justify-content-center">
-                                <a href="contacto.php" class="btn btn-rp h-5 mx-2">Contactanos</a>
+                                <a href="contacto.php" class="btn btn-rp h-5 mx-2">Contáctanos</a>
                             </div>
                         </div>
                     </div>
